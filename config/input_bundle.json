@@ -1,0 +1,11 @@
+{
+  "filename": "be-diffusion-inputs-v1.0.0.tar.gz",
+  "archive_sha256": "a0435a4da42ed0078d1079bcce546a984d8b8d907773fdbea4d066c1a02a5530",
+  "manifest_sha256": "759df3ea9148faf96b9211f3e294a8b656fe469c0109ab9a21652280851510b6",
+  "raw_model_sha256": "2d20998029679c6ff329df4810d50d6af4e8a37974c5315e889a5be68a105bc2",
+  "archive_bytes": 37054016,
+  "FES_sha256": {
+    "R25": "99163254259ef491ec45f300408c59a3d72140457f08299c965db7e137ec3d31",
+    "R27": "52209fac9de1a8165fee96fc349e2c076f0cb42e77c4f52bb5ac93dde5732419"
+  }
+}

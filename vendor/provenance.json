@@ -1,0 +1,37 @@
+{
+  "hummer_original_bayesian.py": {
+    "source_sha256": "36b30dfa0065214f6675afd07e0889113cdf86f806a5cecc220fa931e5e585c0",
+    "copy_sha256": "36b30dfa0065214f6675afd07e0889113cdf86f806a5cecc220fa931e5e585c0"
+  },
+  "hummer_bounded_bayesian.py": {
+    "source_sha256": "baac4838e7a79971308fea152484dd1c7f2f1e3689a1ee4e85e6ce72d894d0df",
+    "copy_sha256": "baac4838e7a79971308fea152484dd1c7f2f1e3689a1ee4e85e6ce72d894d0df"
+  },
+  "hummer_high_precision.cpp": {
+    "source_sha256": "f969d00ec57619e36e6ca0735b039b75a64f21f79d328e386ac46923cb4ffe90",
+    "copy_sha256": "f969d00ec57619e36e6ca0735b039b75a64f21f79d328e386ac46923cb4ffe90"
+  },
+  "native_fpe.py": {
+    "source_sha256": "6ca8de104df5cdbbccf769f87734e96609ace5086e6e5c8bd44a62f1e5868410",
+    "copy_sha256": "6ca8de104df5cdbbccf769f87734e96609ace5086e6e5c8bd44a62f1e5868410"
+  },
+  "diffusion_models.py": {
+    "source_sha256": "2be2cd48d3542999d6f88eab87d639996916cca56e296510bf27e0f2c936754c",
+    "copy_sha256": "2be2cd48d3542999d6f88eab87d639996916cca56e296510bf27e0f2c936754c"
+  },
+  "native_reconstruction.py": {
+    "source_sha256": "7baacc41ca671fc01950ae723f64ff32fd5a489bc8e0e189a729943013e90561",
+    "copy_sha256": "d49d05c906ae4e57bf76af00b313824ea602a97817c36336afa9e4d20e330471",
+    "extracted_functions": true
+  },
+  "diagnostics.py": {
+    "source_sha256": "8ba06140faba4088854f73ee48614429ae11c552ddaf94e8b1c8d7d05ff7ee5c",
+    "copy_sha256": "692b040ed0225fca2b131d0f6123ab761c9c32e9c8a75eef81226cc44c4f5374",
+    "extracted_functions": true
+  },
+  "counting.py": {
+    "source_sha256": "ea6a79024f851e94e7a94b7149c148ebe6f18206e1d71769398f658c5f121f28",
+    "copy_sha256": "c592bac7589c22bf16ea252c5a344eea1da1c0b9f47c0c3fe352c390ba85419c",
+    "extracted_functions": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "unit_tests_passed": 24,
+  "real_frozen_count_matrices_reproduced": [
+    "R25",
+    "R27"
+  ],
+  "frozen_native_rate_checks": [
+    {
+      "CV": "R25",
+      "profile": "raw_median",
+      "mode": "association",
+      "relative_error": 0.0,
+      "rate_s_inverse": 1728.3181507590973
+    },
+    {
+      "CV": "R25",
+      "profile": "raw_median",
+      "mode": "dissociation",
+      "relative_error": 0.0,
+      "rate_s_inverse": 0.9425118771900991
+    },
+    {
+      "CV": "R25",
+      "profile": "smooth_median_h0p10",
+      "mode": "association",
+      "relative_error": 0.0,
+      "rate_s_inverse": 1786.8136612029016
+    },
+    {
+      "CV": "R25",
+      "profile": "smooth_median_h0p10",
+      "mode": "dissociation",
+      "relative_error": 1.1102230246251565e-16,
+      "rate_s_inverse": 0.6670456857009274
+    },
+    {
+      "CV": "R27",
+      "profile": "raw_median",
+      "mode": "association",
+      "relative_error": 0.0,
+      "rate_s_inverse": 71471.3166703042
+    },
+    {
+      "CV": "R27",
+      "profile": "raw_median",
+      "mode": "dissociation",
+      "relative_error": 0.0,
+      "rate_s_inverse": 0.054425016189403014
+    },
+    {
+      "CV": "R27",
+      "profile": "smooth_median_h0p10",
+      "mode": "association",
+      "relative_error": 0.0,
+      "rate_s_inverse": 120894.56833952203
+    },
+    {
+      "CV": "R27",
+      "profile": "smooth_median_h0p10",
+      "mode": "dissociation",
+      "relative_error": 2.220446049250313e-16,
+      "rate_s_inverse": 0.039087342320421666
+    }
+  ],
+  "maximum_native_baseline_relative_error": 2.220446049250313e-16,
+  "posterior_plot_pipeline_fixture_solves": 640,
+  "posterior_plot_pipeline_fixture_failures": 0,
+  "synthetic_quad_MPFR_and_sampler_checked": true,
+  "real_diffusion_fit_run": false,
+  "MD_run": false,
+  "GPU_qualification_run": false,
+  "limitation": "Leonardo runtime requires the on-cluster smoke job. GitHub publication requires user authentication."
+}
